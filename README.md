@@ -5,7 +5,7 @@ Welcome to **Drophut**, a sleek, modern, and fully responsive HTML e-commerce te
 
 ---
 
-## 🚀 Features
+ Features
 
 * **Responsive Layout:** Fully optimized for mobile, tablet, and desktop viewports.
 * **Clean & Minimal Design:** Focuses attention heavily on the product imagery and branding.
@@ -15,12 +15,12 @@ Welcome to **Drophut**, a sleek, modern, and fully responsive HTML e-commerce te
     * `cart.html` & `checkout.html` (Streamlined purchase flow)
     * `tracking.html` (Order tracking for dropshipping transparency)
     * `login.html`, `register.html`, & `my-account.html` (User authentication layouts)
-* **Blog System:** Built-in multi-layout blog pages (`blog.html`, `blog-details.html`) to boost SEO and content marketing.
-* **Interactive Components:** Powered by custom JavaScript for smooth navigation, carousels, and UI elements.
+* Blog System:** Built-in multi-layout blog pages (`blog.html`, `blog-details.html`) to boost SEO and content marketing.
+* Interactive Components:** Powered by custom JavaScript for smooth navigation, carousels, and UI elements.
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```text
 drophut-single-product-dropshipping-html-template/
