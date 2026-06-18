@@ -2,6 +2,7 @@
 # Drophut - Single Product Dropshipping E-Commerce Template
 
 Welcome to **Drophut**, a sleek, modern, and fully responsive HTML e-commerce template designed specifically for single-product dropshipping and clothing brands. Built with speed and user experience in mind, Drophut provides everything you need to showcase a featured apparel item and convert visitors into customers.
+<img width="1920" height="1008" alt="Screenshot 2026-06-18 163529" src="https://github.com/user-attachments/assets/58351c41-dd7e-44e0-ad1b-3f73e9d5f6cc" />
 
 ---
 
